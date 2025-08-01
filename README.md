@@ -12,5 +12,5 @@
 
 # Learning
 <!-- BLOG-POST-LIST:START -->
-- [Retrieval Augmented Generation 🧜‍♀️](https://github.com/vikrant094/Coursera/tree/main/RAG)
+- [Retrieval Augmented Generation 🧜‍♀️](https://github.com/vikrant094/learning/tree/main/RAG)
 <!-- BLOG-POST-LIST:END -->
