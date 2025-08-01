@@ -9,3 +9,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Connect ML Dots 🧜‍♀️](https://vikrant094.github.io/connectsMLDots/)
 <!-- BLOG-POST-LIST:END -->
+
+# Learning
+<!-- BLOG-POST-LIST:START -->
+- [Retrieval Augmented Generation 🧜‍♀️](https://github.com/vikrant094/Coursera/tree/main/RAG)
+<!-- BLOG-POST-LIST:END -->
