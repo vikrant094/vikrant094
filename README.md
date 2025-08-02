@@ -14,3 +14,13 @@
 <!-- BLOG-POST-LIST:START -->
 - [Retrieval Augmented Generation 🧜‍♀️](https://github.com/vikrant094/learning/blob/main/RAG/README.md)
 <!-- BLOG-POST-LIST:END -->
+
+# Certification
+<!-- BLOG-POST-LIST:START -->
+- [Deep Learning 🧜‍♀️](https://coursera.org/share/b12fc9828a99ced933a15a40613a76cf)
+- [Natural Language Processing](https://coursera.org/share/dbb628dc9f32d2ca35b160f634013e0d)
+- [Generative Adversarial Networks (GANs)](https://coursera.org/share/31c24551f6aa903571aabefae3f30f24)
+- [Generative AI with Large Language Models](https://coursera.org/share/ce9b14669661dabbb26a990b80e81a13)
+- [Reinforcement Learning](https://coursera.org/share/ed2896995c3cb45a8a2c63d99d97469d)
+- [Statistics with Python](https://coursera.org/share/641bb03706b0ac651b7252ea53fe4f5e)
+<!-- BLOG-POST-LIST:END -->
