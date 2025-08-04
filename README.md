@@ -12,12 +12,13 @@
 
 # Learning
 <!-- BLOG-POST-LIST:START -->
-- [Retrieval Augmented Generation 🧜‍♀️](https://github.com/vikrant094/learning/blob/main/RAG/README.md)
+- [Retrieval Augmented Generation](https://github.com/vikrant094/learning/blob/main/RAG/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 # Certification
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning 🧜‍♀️](https://coursera.org/share/b12fc9828a99ced933a15a40613a76cf)
+- [Retrieval Augmented Generation (RAG)](https://coursera.org/share/42cef05fb0283700d57fc80774acd640)
+- [Deep Learning](https://coursera.org/share/b12fc9828a99ced933a15a40613a76cf)
 - [Natural Language Processing](https://coursera.org/share/dbb628dc9f32d2ca35b160f634013e0d)
 - [Generative Adversarial Networks (GANs)](https://coursera.org/share/31c24551f6aa903571aabefae3f30f24)
 - [Generative AI with Large Language Models](https://coursera.org/share/ce9b14669661dabbb26a990b80e81a13)
