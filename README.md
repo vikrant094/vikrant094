@@ -10,7 +10,7 @@
 - [Connect ML Dots 🧜‍♀️](https://vikrant094.github.io/connectsMLDots/)
 <!-- BLOG-POST-LIST:END -->
 
-# Recent learning
+# Recent learnings
 <!-- BLOG-POST-LIST:START -->
 - [Retrieval Augmented Generation](https://github.com/vikrant094/learning/blob/main/RAG/README.md)
 <!-- BLOG-POST-LIST:END -->
