@@ -15,7 +15,7 @@
 - [Retrieval Augmented Generation](https://github.com/vikrant094/learning/blob/main/RAG/README.md)
 <!-- BLOG-POST-LIST:END -->
 
-# personal Projects
+# Personal projects
 <!-- BLOG-POST-LIST:START -->
 - [End-to-end AWS deployable regression solution using CI/CD pipeline](https://github.com/vikrant094/regression)
 <!-- BLOG-POST-LIST:END -->
