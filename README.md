@@ -18,6 +18,7 @@
 # Personal projects
 <!-- BLOG-POST-LIST:START -->
 - [End-to-end AWS deployable regression solution using CI/CD pipeline](https://github.com/vikrant094/regression)
+- [End-to-end AWS deployable finetuning/inference summarisation module using CI/CD pipeline](https://github.com/vikrant094/text_summarisation)
 <!-- BLOG-POST-LIST:END -->
 
 
