@@ -17,6 +17,7 @@
 
 # Personal projects
 <!-- BLOG-POST-LIST:START -->
+- [MultiAI agents using Langgraph and LangSmith](https://github.com/vikrant094/MultiAI--agent-end-to-end)
 - [End-to-end AWS deployable regression solution using CI/CD pipeline](https://github.com/vikrant094/regression)
 - [End-to-end AWS deployable finetuning/inference LLM summarisation module using CI/CD pipeline](https://github.com/vikrant094/text_summarisation)
 - [End-to-end AWS deployable LSTM based Names classification module using CI/CD pipeline](https://github.com/vikrant094/characterLevelClassification-)
